@@ -504,7 +504,7 @@ body <- dashboardBody(
           ,h2("General information")
           ,p()
           ,p(strong("Author:"), "Ed Wilkes")
-          ,p(strong("Version:"), "0.3")
+          ,p(strong("Version:"), "0.4")
           ,p(strong("Date released:"), "2020/03/29")
           ,h2("Modelling")
           ,p(
