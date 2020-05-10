@@ -1,3 +1,5 @@
+## Author: Ed Wilkes
+## Year: 2020
 ################
 ## Version notes
 # v0.2 - Implemented new cases vs cumulative cases
